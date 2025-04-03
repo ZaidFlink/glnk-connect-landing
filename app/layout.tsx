@@ -10,6 +10,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL('https://glnkconnect.com'),
   title: 'Connect | Enterprise Healthcare Network',
   description: 'Connect links healthcare professionals worldwide, enabling collaboration, knowledge sharing, and career advancement.',
   keywords: ['healthcare network', 'medical professionals', 'healthcare collaboration', 'medical community'],
