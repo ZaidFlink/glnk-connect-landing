@@ -112,14 +112,18 @@ export default function LandingPage() {
         body: JSON.stringify({ email }),
       });
 
+      const data = await response.json();
+
       if (response.ok) {
         setSubmitted(true);
         setEmail('');
       } else {
-        setError('Something went wrong. Please try again.');
+        console.error('API Error:', data);
+        setError(data.error || 'Failed to subscribe. Please try again.');
       }
     } catch (err) {
-      setError('Network error. Please try again later.');
+      console.error('Submission Error:', err);
+      setError('Network error. Please check your connection and try again.');
     } finally {
       setLoading(false);
     }
