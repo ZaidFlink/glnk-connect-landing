@@ -1,0 +1,30 @@
+FAVICON UPDATE INSTRUCTIONS
+
+To update the website favicon to match the GLNK Connect branding:
+
+1. Create a square SVG or PNG logo representing GLNK Connect
+   - Use the primary colors from the branding (blue and indigo gradients)
+   - Keep the design simple and recognizable at small sizes
+   - Dimensions should be at least 192x192 pixels
+
+2. Convert the image to multiple favicon formats:
+   - favicon.ico (16x16, 32x32, 48x48)
+   - apple-touch-icon.png (180x180)
+   - favicon-32x32.png
+   - favicon-16x16.png
+
+3. You can use online tools like Favicon Generator (https://realfavicongenerator.net/) 
+   or Favicon.io (https://favicon.io/) to convert your logo to all required formats
+
+4. Replace the existing favicon.ico file in the app directory
+   - Place the other icon files in the public directory
+
+5. Update the head section in layout.tsx to include links to all favicon files:
+   ```tsx
+   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+   <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+   <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+   <link rel="icon" href="/favicon.ico" />
+   ```
+
+The favicon should represent the GLNK Connect brand and maintain visual consistency with the updated logo. 

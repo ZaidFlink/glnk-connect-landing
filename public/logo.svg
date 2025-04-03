@@ -1,0 +1,71 @@
+<svg width="250" height="60" viewBox="0 0 250 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- GLNK Logo Mark -->
+  <path d="M20 42C13.8 42 9 37.2 9 30C9 22.8 13.8 18 20 18C24.4 18 28 20.2 29.2 24H38C36.4 16.2 29.2 10 20 10C9.4 10 1 18.4 1 30C1 41.6 9.4 50 20 50C29.2 50 36.4 43.8 38 36H29.2C28 39.8 24.4 42 20 42Z" fill="url(#paint0_linear)" />
+  
+  <!-- The word "GLNK" -->
+  <path d="M46 16H53V44H46V16Z" fill="url(#paint1_linear)" />
+  <path d="M64 16H71L81 33V16H88V44H81L71 27V44H64V16Z" fill="url(#paint2_linear)" />
+  <path d="M96 16H103L113 33V16H120V44H113L103 27V44H96V16Z" fill="url(#paint3_linear)" />
+  <path d="M127 16H149V23H134V27H147V33H134V37H149V44H127V16Z" fill="url(#paint4_linear)" />
+  
+  <!-- The word "CONNECT" -->
+  <path d="M155 16H169C175 16 179 20 179 25C179 29.2 176.2 32.6 172 33.6L180 44H172L165 34H162V44H155V16ZM162 28H168C170.4 28 172 26.8 172 25C172 23.2 170.4 22 168 22H162V28Z" fill="url(#paint5_linear)" />
+  <path d="M183 16H190V44H183V16Z" fill="url(#paint6_linear)" />
+  <path d="M197 16H204L214 33V16H221V44H214L204 27V44H197V16Z" fill="url(#paint7_linear)" />
+  <path d="M227 16H234L244 33V16H251V44H244L234 27V44H227V16Z" fill="url(#paint8_linear)" />
+  <path d="M258 16H280V23H265V27H278V33H265V37H280V44H258V16Z" fill="url(#paint9_linear)" />
+  <path d="M288 16H302C308 16 312 20 312 25C312 29.2 309.2 32.6 305 33.6L313 44H305L298 34H295V44H288V16ZM295 28H301C303.4 28 305 26.8 305 25C305 23.2 303.4 22 301 22H295V28Z" fill="url(#paint10_linear)" />
+  <path d="M318 16H325V37H340V44H318V16Z" fill="url(#paint11_linear)" />
+  
+  <!-- Gradient Definitions -->
+  <defs>
+    <linearGradient id="paint0_linear" x1="1" y1="30" x2="38" y2="30" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1E40AF" />
+      <stop offset="1" stop-color="#4F46E5" />
+    </linearGradient>
+    <linearGradient id="paint1_linear" x1="46" y1="30" x2="155" y2="30" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1E40AF" />
+      <stop offset="1" stop-color="#4F46E5" />
+    </linearGradient>
+    <linearGradient id="paint2_linear" x1="46" y1="30" x2="155" y2="30" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1E40AF" />
+      <stop offset="1" stop-color="#4F46E5" />
+    </linearGradient>
+    <linearGradient id="paint3_linear" x1="46" y1="30" x2="155" y2="30" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1E40AF" />
+      <stop offset="1" stop-color="#4F46E5" />
+    </linearGradient>
+    <linearGradient id="paint4_linear" x1="46" y1="30" x2="155" y2="30" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1E40AF" />
+      <stop offset="1" stop-color="#4F46E5" />
+    </linearGradient>
+    <linearGradient id="paint5_linear" x1="155" y1="30" x2="340" y2="30" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4F46E5" />
+      <stop offset="1" stop-color="#8B5CF6" />
+    </linearGradient>
+    <linearGradient id="paint6_linear" x1="155" y1="30" x2="340" y2="30" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4F46E5" />
+      <stop offset="1" stop-color="#8B5CF6" />
+    </linearGradient>
+    <linearGradient id="paint7_linear" x1="155" y1="30" x2="340" y2="30" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4F46E5" />
+      <stop offset="1" stop-color="#8B5CF6" />
+    </linearGradient>
+    <linearGradient id="paint8_linear" x1="155" y1="30" x2="340" y2="30" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4F46E5" />
+      <stop offset="1" stop-color="#8B5CF6" />
+    </linearGradient>
+    <linearGradient id="paint9_linear" x1="155" y1="30" x2="340" y2="30" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4F46E5" />
+      <stop offset="1" stop-color="#8B5CF6" />
+    </linearGradient>
+    <linearGradient id="paint10_linear" x1="155" y1="30" x2="340" y2="30" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4F46E5" />
+      <stop offset="1" stop-color="#8B5CF6" />
+    </linearGradient>
+    <linearGradient id="paint11_linear" x1="155" y1="30" x2="340" y2="30" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4F46E5" />
+      <stop offset="1" stop-color="#8B5CF6" />
+    </linearGradient>
+  </defs>
+</svg> 
